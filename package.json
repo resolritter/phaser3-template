@@ -1,0 +1,27 @@
+{
+  "name": "phaser3-template",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "rollup --watch -c rollup.mjs"
+  },
+  "prettier": {
+    "semi": false,
+    "trailingComma": "all",
+    "arrowParens": "always"
+  },
+  "keywords": [],
+  "license": "Unlicense",
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^24.0.0",
+    "@rollup/plugin-node-resolve": "^15.0.1",
+    "prettier": "^2.8.1",
+    "prettier-plugin-compactify": "^0.1.6",
+    "rollup": "^3.8.1",
+    "rollup-plugin-livereload": "^2.0.5",
+    "rollup-plugin-serve": "^2.0.2"
+  },
+  "dependencies": {
+    "phaser": "^3.55.2"
+  }
+}
