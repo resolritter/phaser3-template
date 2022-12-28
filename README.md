@@ -9,9 +9,15 @@ npm run start
 
 Then open the URL specified by the bundler (`http://localhost:10001` as of this writing).
 
+# Resources
+
+- https://github.com/photonstorm/phaser3-examples/tree/master/public/src
+- https://github.com/BdR76/Phaser3-example-game
+- https://flaviocopes.com/phaserjs-platform-game-tutorial/
+
 # License
 
-The code is available licensed under Unlicense **except for the following files**:
+The code in this repository is licensed under Unlicense **except for the following files**:
 
 - ./assets/player.png
 
